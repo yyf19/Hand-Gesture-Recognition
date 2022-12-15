@@ -1,5 +1,5 @@
 # hand-gesture-recognition
-
+author: Ying-Kun (Ethan) Wu
 Final project for UMN CSCI 5525 Machine Learning course
 
 The hand detector is only responsible for detecting hand without doing classification </br>
